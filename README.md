@@ -29,6 +29,7 @@ STEPS:
              iv)DATA TRANSFORMATION: Mainly focused on label encoding for majority of columns. and performed Standard scalar on Movie age feature.
 
 3) Exploratory Data Analysis (EDA)
+
                i)DATA VISUALIZATION: In this dataset, majority of them are Categorical columns so performed bar plot, stacked bar plot etc. Performed Univariate & Bivariate analysis for respective features. In this Many plots are done by comparing features with target variable(rating category)
 
                ii)CORRELATION ANALYSIS: Heatmap is not necessary for Categorical columns, here i performed is just for just showing the relationship between variables
